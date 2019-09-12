@@ -1,8 +1,9 @@
 {
-	"name": "code",
-	"displayName": "code",
+	"name": "YHCode",
+	"displayName": "YHCode",
 	"description": "test",
 	"version": "0.0.1",
+	"publisher":"YHCode",
 	"engines": {
 		"vscode": "^1.38.0"
 	},
