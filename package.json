@@ -1,5 +1,5 @@
 {
-	"name": "YHCode",
+	"name": "yhcode",
 	"displayName": "YHCode",
 	"description": "test",
 	"version": "0.0.1",
@@ -24,6 +24,11 @@
 			{
 				"command": "extension.test",
 				"title": "Hello YH"
+			}
+		],
+		"snippets": [
+			{
+				"path": "./.vscode/OverAll.code-snippets"
 			}
 		]
 	},
