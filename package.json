@@ -2,7 +2,7 @@
 	"name": "yhcode",
 	"displayName": "YHCode",
 	"description": "test",
-	"version": "0.0.1",
+	"version": "0.0.3",
 	"publisher":"YHCode",
 	"engines": {
 		"vscode": "^1.38.0"
