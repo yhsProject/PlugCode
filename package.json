@@ -2,7 +2,7 @@
 	"name": "yhcode",
 	"displayName": "YHCode",
 	"description": "This is a plug-in ",
-	"version": "0.0.3",
+	"version": "0.0.5",
 	"publisher":"YHCode",
 	"engines": {
 		"vscode": "^1.38.0"
@@ -28,7 +28,7 @@
 		],
 		"snippets": [
 			{
-				"path": "./.vscode/OverAll.code-snippets"
+				"path": "./out/OverAll.code-snippets"
 			}
 		]
 	},
