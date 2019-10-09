@@ -1,8 +1,8 @@
 {
 	"name": "yhcode",
 	"displayName": "YHCode",
-	"description": "test",
-	"version": "0.0.1",
+	"description": "This is a plug-in",
+	"version": "0.0.3",
 	"publisher":"YHCode",
 	"engines": {
 		"vscode": "^1.38.0"
